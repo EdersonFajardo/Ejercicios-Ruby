@@ -1,0 +1,11 @@
+---
+base:
+  name: first product
+  description: type one product
+  url: http://localhost:3000/v1/products/
+  num_conditioned: 1
+  num_technical_note: 1
+  prime_min: 10
+  prime_max: 20
+  validity: monthly
+  insurable_object: base

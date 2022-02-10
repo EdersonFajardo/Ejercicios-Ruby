@@ -1,0 +1,12 @@
+---
+base: &base 
+  name: first coverage
+  description: type covarege one
+  rate: 1
+  min_limit: 1
+  max_limit: 5
+  branch: base
+
+earthquake:
+  <<: *base
+  name: second coverage

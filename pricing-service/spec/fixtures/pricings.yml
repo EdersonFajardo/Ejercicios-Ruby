@@ -1,0 +1,8 @@
+---
+base:
+  premium: 5000
+  iva: 950
+  total_premium: 5950
+  coverage_id: 1
+  insurable_object_id: 1
+  product_id: 1

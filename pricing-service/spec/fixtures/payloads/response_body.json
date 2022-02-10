@@ -1,0 +1,25 @@
+{
+  "id":1,
+  "name":"Casa",
+  "description":"alguna descripcion",
+  "url":"http//:localhost:3000/v1/product",
+  "num_conditioned":2,
+  "num_technical_note":1,
+  "prime_min":"1.0",
+  "prime_max":"10.0",
+  "validity":6,
+  "insurable_object":{
+    "id":1,
+    "name":"Nombre tres objeto",
+    "description":"Descripcion de objeto",
+    "coverage":{
+        "id":1,
+        "name":"covertura tres bb",
+        "description":"Descripcion de cobertura",
+        "rate":"1.0",
+        "min_limit":"1.0",
+        "max_limit":"5.0",
+        "branch_id":4
+    }
+  }
+}
